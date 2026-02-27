@@ -25,7 +25,7 @@ import MobileSidebarClose from "./mobile-sidebar-close"
               className="mb-1 flex cursor-pointer items-center gap-2"
             >
               <Sparkles className="text-primary h-6 w-6" />
-              <p className="from-primary to-primary/70 bg-gradient-to-r bg-clip-text text-2xl font-bold tracking-tight text-transparent">
+              <p className="from-primary to-primary/70  bg-clip-text text-2xl font-bold tracking-tight text-transparent">
                 AI Voice
               </p>
             </Link>
