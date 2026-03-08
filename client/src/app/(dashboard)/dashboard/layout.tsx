@@ -40,7 +40,7 @@ export default function RootLayout({
               </Breadcrumb>
             </div>
           </header>
-          <main className="from-background to-muted/20 flex-1 overflow-y-auto bg-gradient-to-br p-6">
+          <main className="from-background to-muted/20 flex-1 overflow-y-auto p-6">
             {children}
           </main>
         </SidebarInset>
