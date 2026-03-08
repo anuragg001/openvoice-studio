@@ -5,7 +5,6 @@
 
 import { usePathname } from "next/navigation";
 import { BreadcrumbPage } from "../ui/breadcrumb";
-import { get } from "http";
 
 export default function BreadcrumbPageClient() {
     const path = usePathname();
